@@ -1,5 +1,5 @@
 ## 🔗 Live Demo
-[👉 Play the Game Here] 
+[👉 Play the Game Here] : https://deeptibadlani230533.github.io/Rock-paper-scissors-game/
 
 
 # Rock-paper-scissors-game  🎮
