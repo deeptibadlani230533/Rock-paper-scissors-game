@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/a1c0de5f-d376-4bf0-b3bb-cf03bf026400" />
+<img width="1366" height="768" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/b48a3c7a-90fd-4f7b-81d4-70105f3a5331" />
 # Rock-paper-scissors-game  🎮
 A simple implementation of the classic **Rock-Paper-Scissors** game using **HTML, CSS, and JavaScript**.
 
