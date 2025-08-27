@@ -1,3 +1,6 @@
+## 🔗 Live Demo
+[👉 Play the Game Here] 
+
 
 # Rock-paper-scissors-game  🎮
 A simple implementation of the classic **Rock-Paper-Scissors** game using **HTML, CSS, and JavaScript**.
