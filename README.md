@@ -10,6 +10,7 @@ A simple implementation of the classic **Rock-Paper-Scissors** game using **HTML
 - Random computer moves
 - Basic styling with CSS
 - Displays the winner of each round
+- Keeps track of **your score** (Win / Loss / Tie) 🏆
 
 ## Files
 - `index.html` – The main game structure
@@ -22,7 +23,7 @@ A simple implementation of the classic **Rock-Paper-Scissors** game using **HTML
 3. Click on **Rock**, **Paper**, or **Scissors** to play!
 
 ## Future Improvements
-- Add a scoreboard
+- Add a scoreboard(done)
 - Improve UI with animations
 - Add sound effects for moves
 
