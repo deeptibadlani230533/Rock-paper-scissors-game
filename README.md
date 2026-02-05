@@ -33,3 +33,5 @@ A simple implementation of the classic **Rock-Paper-Scissors** game using **HTML
 
 <img width="1250" height="670" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/a1c0de5f-d376-4bf0-b3bb-cf03bf026400" />
 <img width="1250" height="670" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/b48a3c7a-90fd-4f7b-81d4-70105f3a5331" />
+
+-Deepti Badlani
